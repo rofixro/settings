@@ -7,6 +7,7 @@ background-blur-radius = 20
 font-family = Monaspace Neon
 confirm-close-surface = false
 mouse-scroll-multiplier = 0.5
+font-family = LXGW WenKai Mono
 mouse-hide-while-typing = true
 macos-auto-secure-input = true
 quick-terminal-position = center
