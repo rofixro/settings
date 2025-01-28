@@ -4,7 +4,7 @@ theme = catppuccin-mocha
 background-opacity = 0.8
 shell-integration = fish
 background-blur-radius = 20
-font-family = Monaspace Neon
+font-family = Berkeley Mono
 confirm-close-surface = false
 mouse-scroll-multiplier = 0.5
 font-family = LXGW WenKai Mono
@@ -12,5 +12,5 @@ mouse-hide-while-typing = true
 macos-auto-secure-input = true
 quick-terminal-position = center
 macos-titlebar-proxy-icon = hidden
-window-title-font-family = Monaspace Neon
+window-title-font-family = Berkeley Mono
 keybind = global:cmd+grave_accent=toggle_quick_terminal
