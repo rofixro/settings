@@ -15,7 +15,7 @@
   "editor.quickSuggestions": { "strings": true },
   "editor.bracketPairColorization.enabled": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "'Input Mono', 'LXGW WenKai Mono', monospace",
+  "editor.fontFamily": "'Berkeley Mono', 'LXGW WenKai Mono', monospace",
   // git
   "git.autofetch": true,
   "git.confirmSync": false,
@@ -29,7 +29,7 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.persistentSessionReviveProcess": "never",
-  "terminal.integrated.fontFamily": "'Input Mono', 'Hack Nerd Font'",
+  "terminal.integrated.fontFamily": "'Berkeley Mono', 'Hack Nerd Font'",
   // workbench
   "workbench.tree.indent": 10,
   "workbench.reduceMotion": "on",
